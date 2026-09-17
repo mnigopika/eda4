@@ -133,20 +133,21 @@ A histogram with 30 bins is used to visualize the distribution of daily returns.
 ### Price Range Trend
 
 The notebook visualizes the daily difference between the high and low prices.
-<img width="985" height="465" alt="Screenshot 2026-09-17 201259" src="https://github.com/user-attachments/assets/938ee1ab-ea8e-4d41-9144-69ab455bb678" />
 
 !\[Shopify Price Range Trend](readme\_assets/plot\_3.png)
 
 ### Shopify OHLC Prices
 
 The notebook compares the **Open, High, Low, and Close** prices over time.
-<img width="995" height="481" alt="Screenshot 2026-09-17 201407" src="https://github.com/user-attachments/assets/7e52dc26-76da-4991-ab60-280716619b17" />
+<img width="985" height="465" alt="Screenshot 2026-09-17 201259" src="https://github.com/user-attachments/assets/938ee1ab-ea8e-4d41-9144-69ab455bb678" />
+
 
 !\[Shopify OHLC Prices](readme\_assets/plot\_4.png)
 
 ### Closing Price and Moving Averages
 
 The notebook compares the daily closing price with **20-day and 50-day moving averages**.
+<img width="995" height="481" alt="Screenshot 2026-09-17 201407" src="https://github.com/user-attachments/assets/7e52dc26-76da-4991-ab60-280716619b17" />
 
 !\[Shopify Closing Price and Moving Averages](readme\_assets/plot\_5.png)
 
