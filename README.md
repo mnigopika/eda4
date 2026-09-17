@@ -142,21 +142,18 @@ The notebook compares the **Open, High, Low, and Close** prices over time.
 <img width="985" height="465" alt="Screenshot 2026-09-17 201259" src="https://github.com/user-attachments/assets/938ee1ab-ea8e-4d41-9144-69ab455bb678" />
 
 
-!\[Shopify OHLC Prices](readme\_assets/plot\_4.png)
-
 ### Closing Price and Moving Averages
 
 The notebook compares the daily closing price with **20-day and 50-day moving averages**.
 <img width="995" height="481" alt="Screenshot 2026-09-17 201407" src="https://github.com/user-attachments/assets/7e52dc26-76da-4991-ab60-280716619b17" />
 
-!\[Shopify Closing Price and Moving Averages](readme\_assets/plot\_5.png)
+
 
 ### KDE of Daily Returns
 
 A Kernel Density Estimate (KDE) is used to show the smoothed distribution of daily returns.
 <img width="844" height="462" alt="Screenshot 2026-09-17 201425" src="https://github.com/user-attachments/assets/3b819b4e-ba12-4178-bcf7-0c4e1b640776" />
 
-!\[KDE of Shopify Daily Returns](readme\_assets/plot\_6.png)
 
 ## 🔍 Key Observations from the Notebook
 
